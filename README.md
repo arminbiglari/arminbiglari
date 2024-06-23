@@ -4,9 +4,7 @@
 
 
 [![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-blue?logo=google-scholar&logoColor=white&style=flat)](https://scholar.google.com/citations?user=xTJ7BeoAAAAJ&hl=en&oi=ao)
-
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arminbiglari98/)
-
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/arminbiglari)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arminbiglariii@gmail.com)
 
@@ -18,7 +16,7 @@
 ------------------------
 
 ### My Publications:
-[![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://ieeexplore.ieee.org/abstract/document/9980422/)
+RetiFluidNet: A Self-Adaptive and Multi-Attention Deep Convolutional Network for Retinal OCT Fluid Segmentation [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://ieeexplore.ieee.org/abstract/document/9980422/)
 
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social"> </h2>
