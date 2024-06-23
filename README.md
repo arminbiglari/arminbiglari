@@ -16,7 +16,7 @@
 ------------------------
 
 ### My Publications:
-RetiFluidNet: A Self-Adaptive and Multi-Attention Deep Convolutional Network for Retinal OCT Fluid Segmentation [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://ieeexplore.ieee.org/abstract/document/9980422/)
+<h1> RetiFluidNet: A Self-Adaptive and Multi-Attention Deep Convolutional Network for Retinal OCT Fluid Segmentation.<h1> [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://ieeexplore.ieee.org/abstract/document/9980422/)
 
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social"> </h2>
