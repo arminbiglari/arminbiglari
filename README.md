@@ -16,13 +16,11 @@
 ------------------------
 
 ### My Publications:
-* RetiFluidNet: A Self-Adaptive and Multi-Attention Deep Convolutional Network for Retinal OCT Fluid Segmentation. [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://ieeexplore.ieee.org/abstract/document/9980422/)
+* **RetiFluidNet: A Self-Adaptive and Multi-Attention Deep Convolutional Network for Retinal OCT Fluid Segmentation.**  
+  [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://ieeexplore.ieee.org/abstract/document/9980422/)
 
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=arminbiglari&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/arminbiglari?style=social"> </h2>
-
-
-
 <p align="justify"> With 5 years of industry experience, I am a dedicated professional with a strong background in computer vision. I hold a Bachelor's degree and have published eye-catching papers that have significantly contributed to the field.
 My extensive experience in computer vision, combined with a high demand for continuous learning, drives me to stay updated with the latest advancements and integrate innovative solutions into my projects. I am always eager to expand my knowledge and skills to excel in this dynamic field..</p>
 
